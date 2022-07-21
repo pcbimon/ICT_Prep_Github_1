@@ -6,3 +6,6 @@ JUNHAO ZHANG
 
 ## Email
 junhao.zhn@student.mahidol.ac.th
+
+## My hometown
+Kunming,China
